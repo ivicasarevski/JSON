@@ -1,25 +1,25 @@
 [
   {
     "name": "Megane",
-    "brand": "Renault,
+    "brand": "Renault",
     "color": "Green",
     "year": "1999"
   },
    {
     "name": "Focus",
-    "brand": "Ford,
+    "brand": "Ford",
     "color": "Grey",
     "year": "2009"
   },
    {
     "name": "Polo",
-    "brand": "VW,
+    "brand": "VW",
     "color": "Red",
     "year": "2005"
   },
    {
     "name": "A4",
-    "brand": "Audi,
+    "brand": "Audi",
     "color": "Pearl White",
     "year": "2006"
   },
